@@ -1,4 +1,4 @@
-# IoT-Home-Sistem-with-STM32-and-Raspberry
+# IoT-Home-System-with-STM32-and-Raspberry
 
 Este repositorio consigna toda la información relacionada con el desarrollo de un sistema de IoT para controlar y/o monitorear 4 eventos concretos en un hogar: 
 
